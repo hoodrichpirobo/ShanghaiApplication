@@ -13,3 +13,4 @@ ShanghaiApplication is a JavaFX application that visualizes the Shanghai ranking
 - **Java**: The core programming language used to develop the application.
 - **JavaFX**: A set of graphics and media packages to create rich GUI applications.
 - **HashMap**: A data structure used to store the ranking data.
+- **Collections framework**: To handle the HashMap.
